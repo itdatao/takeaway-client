@@ -15,7 +15,7 @@ SpringBoot+MyBatis Plus+Spring MVC
 
 1.  静态图片加载不出来，需要修改nginx配置文件，nginx.conf
 
-    ```conf
+```conf
     server {
         listen       8080;
         server_name  localhost;
@@ -53,6 +53,8 @@ SpringBoot+MyBatis Plus+Spring MVC
      }
     }
 ```
+
+
 2. 启动数据库，如果SpringBoot端口被占用，默认是8088，需要修改端口
 
 #### 项目展示
