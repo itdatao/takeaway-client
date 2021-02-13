@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff523de5-c93d-4663-88cd-a4a84e41ef0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1nya2zPWAmaMGlHEPiMwEw36BYj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\src\main\resources\static" />
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\target\classes" />
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\src\main\resources\static" />
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\src\main\resources" />
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\src\main\resources\mapper" />
+      <recent name="D:\workspace\RY-Vue-Plus\takeaway-front\src\main\java\com\ruoyi\web\exception\file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumberTest">
+    <configuration name="NumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberTest" />
+      <module name="takeaway-front" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TakeawayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="takeaway-front" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruoyi.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruoyi.web.TakeawayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberTest" />
+        <item itemvalue="Spring Boot.TakeawayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff523de5-c93d-4663-88cd-a4a84e41ef0c" name="Default Changelist" comment="" />
+      <created>1612364580951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612364580951</updated>
+      <workItem from="1612364584373" duration="6627000" />
+      <workItem from="1612404294242" duration="62240000" />
+      <workItem from="1612753612138" duration="83457000" />
+      <workItem from="1613139262188" duration="9106000" />
+      <workItem from="1613209839756" duration="2989000" />
+      <workItem from="1613228111754" duration="4059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1613139379931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1613139379931" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1613200861303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1613200861303" />
+    <state x="557" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1613039639183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1613039639183" />
+    <state x="445" y="154" key="FileChooserDialogImpl" timestamp="1613231963846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613231963846" />
+    <state x="602" y="313" key="Gitee.ShareDialog" timestamp="1613231990931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="313" key="Gitee.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1613231990931" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1613231894386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613231894386" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1613231894386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613231894386" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1613231894386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613231894386" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1613231894386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613231894386" />
+    <state width="1493" height="198" key="GridCell.Tab.1.bottom" timestamp="1613228048231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613228048231" />
+    <state width="1493" height="198" key="GridCell.Tab.1.center" timestamp="1613228048231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1613228048231" />
+    <state width="1493" height="198" key="GridCell.Tab.1.left" timestamp="1613228048231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1613228048231" />
+    <state width="1493" height="198" key="GridCell.Tab.1.right" timestamp="1613228048231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1613228048231" />
+    <state width="1493" height="250" key="GridCell.Tab.2.bottom" timestamp="1613055573257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613055573257" />
+    <state width="1493" height="250" key="GridCell.Tab.2.center" timestamp="1613055573257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1613055573257" />
+    <state width="1493" height="250" key="GridCell.Tab.2.left" timestamp="1613055573257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1613055573257" />
+    <state width="1493" height="250" key="GridCell.Tab.2.right" timestamp="1613055573257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1613055573257" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1612367345891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1612367345891" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1613139576130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613139576130" />
+    <state x="465" y="110" key="SpringBootCustomization" timestamp="1613039622162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="110" key="SpringBootCustomization/0.0.1536.824@0.0.1536.824" timestamp="1613039622162" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1612365077843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1612365077843" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613139309868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613139309868" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ruoyi/web/service/impl/CommentServiceImpl.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
